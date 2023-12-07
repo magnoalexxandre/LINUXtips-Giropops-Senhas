@@ -12,6 +12,7 @@ env:
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
   IMAGE_NAME: isadora/linuxtips-giropops-senhas
+
 jobs:
   lint-yaml:
     runs-on: ubuntu-latest
