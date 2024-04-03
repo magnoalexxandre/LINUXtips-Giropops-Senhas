@@ -1,4 +1,4 @@
-# LINUXTips - Giropops Senhas
+# LINUXTips - Giropops Senhas forked
 
 ### Descrição
 Esse repositório agrupa os arquivos de deploy da aplicação Giropops Senhas num cluter Kubernetes como parte da avaliação do Programa Intensivo de Containers e Kubernetes da @LinuxTips.
